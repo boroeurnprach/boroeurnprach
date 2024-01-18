@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Boroeurn</h1>  
-<h3 align="center">A passionate Android Developer from Cambodia! 🇰🇭</h3>  
+<h3 align="center">A passionate Developer from Cambodia! 🇰🇭</h3>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boroeurnprach&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="boroeurnprach" /> </p>  
   
 <br/><br/><br/>
